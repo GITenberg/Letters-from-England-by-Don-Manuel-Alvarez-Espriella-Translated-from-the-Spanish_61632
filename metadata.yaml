@@ -1,0 +1,25 @@
+_repo: Letters-from-England-by-Don-Manuel-Alvarez-Espriella-Translated-from-the-Spanish_61632
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Southey, Robert
+    birthdate: 1774
+    deathdate: 1843
+    gutenberg_agent_id: '488'
+    url: http://www.gutenberg.org/2009/agents/488
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Southey
+description: ''
+gutenberg_issued: '2020-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61632'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Letters from England
+
+  by Don Manuel Alvarez Espriella. Translated from the Spanish'
+url: http://www.gutenberg.org/ebooks/61632
